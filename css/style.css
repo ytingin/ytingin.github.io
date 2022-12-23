@@ -1,0 +1,52 @@
+@charset "utf-8";
+*{padding:0; margin:0;}
+.overall{
+    width: 1920px;
+    height: 5680px;
+    background: url("../images/back01.png");
+    margin: 0 auto;
+}
+.header{
+    width: 1920px;
+    height: 80px;
+}
+.logo{
+	width: 134px;
+	height: 55px;
+	background: url("../images/logo.png");
+	margin-left: 40px;
+	margin-right: 1054px;
+	float: left;
+	margin-top: 14px;
+}
+.text{
+	width: 84px;
+	height: 36px;
+	float: left;
+	margin-right: 30px;
+	margin-top: 23px;
+	color: #999;
+	text-align: center;
+	padding-top: 11px;
+}
+.slogan{
+	width: 1360px;
+	height: 630px;
+	background: url("../images/slogan.png");
+	margin-top: 121px;
+	margin-left: 330px;
+}
+.skill{
+	width: 1273px;
+	height: 574px;
+	background: url("../images/skill.png");
+	margin-top: 1219px;
+	margin-left: 360px;
+}
+.projects{
+	width: 1216px;
+	height: 2635px;
+	background: url("../images/projects.png");
+	margin-top: 210px;
+	margin-left: 352px;
+}
